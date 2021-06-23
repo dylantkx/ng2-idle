@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [10.1.0](https://github.com/HackedByChinese/ng2-idle/compare/v10.0.0...v10.1.0) (2021-06-23)
+
+
+### Features
+
+* **interruptsource:** allow interrupts to use an ssr option ([239be3a](https://github.com/HackedByChinese/ng2-idle/commit/239be3aba9cb0e4d8d2a05700f911335ec54a1d2)), closes [#77](https://github.com/HackedByChinese/ng2-idle/issues/77) [#115](https://github.com/HackedByChinese/ng2-idle/issues/115)
+
+
+
+
+
 # [10.0.0](https://github.com/HackedByChinese/ng2-idle/compare/v9.0.0-beta.1...v10.0.0) (2020-09-10)
 
 
